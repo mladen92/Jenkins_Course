@@ -42,7 +42,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.Greeter</mainClass>
+                            <mainClass>greeter.Greeter</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

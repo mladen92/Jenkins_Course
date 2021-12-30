@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="remove greetings classes from old module">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="adding webapp" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640830920761</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="adding webapp">
+      <created>1640833133978</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1640833133978</updated>
+    </task>
+    <task id="LOCAL-00010" summary="adding webapp">
+      <created>1640833184615</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1640833184615</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +168,7 @@
     <MESSAGE value="updatepom.xml file in java tomcast sample" />
     <MESSAGE value="moving greetings to ano0ther module" />
     <MESSAGE value="remove greetings classes from old module" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove greetings classes from old module" />
+    <MESSAGE value="adding webapp" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding webapp" />
   </component>
 </project>

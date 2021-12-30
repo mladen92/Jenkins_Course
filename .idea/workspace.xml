@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="adding webapp">
+    <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-tomcat-sample/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-tomcat-sample/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +32,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-tomcat-sample/src/main/webapp" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -39,6 +41,10 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="greeter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-tomcat-sample/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/java-tomcat-sample" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -152,7 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640833224335</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add procfile">
+      <created>1640833704168</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1640833704168</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update procfile">
+      <created>1640834037095</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1640834037095</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +198,8 @@
     <MESSAGE value="moving greetings to ano0ther module" />
     <MESSAGE value="remove greetings classes from old module" />
     <MESSAGE value="adding webapp" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding webapp" />
+    <MESSAGE value="add procfile" />
+    <MESSAGE value="update procfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="update procfile" />
   </component>
 </project>

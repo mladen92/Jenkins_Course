@@ -8,6 +8,10 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+    <packaging>war</packaging>
+    <version>1.0.1</version>
+    <name>hello Maven Webapp</name>
+    <url>http://maven.apache.org</url>
 
     <artifactId>java-tomcat-sample</artifactId>
     <dependencies>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="">
+    <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="remove greetings classes from old module">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640829924259</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="remove greetings classes from old module">
+      <created>1640830920761</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1640830920761</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +155,7 @@
     <MESSAGE value="add new module java tomcat sample" />
     <MESSAGE value="updatepom.xml file in java tomcast sample" />
     <MESSAGE value="moving greetings to ano0ther module" />
-    <option name="LAST_COMMIT_MESSAGE" value="moving greetings to ano0ther module" />
+    <MESSAGE value="remove greetings classes from old module" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove greetings classes from old module" />
   </component>
 </project>

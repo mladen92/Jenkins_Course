@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-tomcat-sample/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-tomcat-sample/javatomcatsample.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +20,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="22Z5akNb4ghq58gWnvSiacbaZAy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -93,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640038164843</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add new module java tomcat sample">
+      <created>1640828456209</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1640828456209</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +127,7 @@
     <MESSAGE value="Jar dependency update (path to main class execution)" />
     <MESSAGE value="making test to fail" />
     <MESSAGE value="fixing the test" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing the test" />
+    <MESSAGE value="add new module java tomcat sample" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new module java tomcat sample" />
   </component>
 </project>

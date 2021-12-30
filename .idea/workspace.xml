@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/test_greeter/GreeterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test_greeter/GreeterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-tomcat-sample/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640037294450</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="making test to fail">
+      <created>1640038023919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640038023919</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixing the test">
+      <created>1640038164843</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640038164843</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,7 +101,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -94,6 +112,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test update to trigger build" />
     <MESSAGE value="Jar dependency update (path to main class execution)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jar dependency update (path to main class execution)" />
+    <MESSAGE value="making test to fail" />
+    <MESSAGE value="fixing the test" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing the test" />
   </component>
 </project>

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-tomcat-sample/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-tomcat-sample/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640834037095</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update pom xml file with webapp packaging">
+      <created>1640835454097</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1640835454097</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +206,7 @@
     <MESSAGE value="adding webapp" />
     <MESSAGE value="add procfile" />
     <MESSAGE value="update procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="update procfile" />
+    <MESSAGE value="update pom xml file with webapp packaging" />
+    <option name="LAST_COMMIT_MESSAGE" value="update pom xml file with webapp packaging" />
   </component>
 </project>

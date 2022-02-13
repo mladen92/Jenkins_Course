@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="">
+    <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="update pom xml file with webapp packaging">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -178,8 +178,39 @@
       <option name="project" value="LOCAL" />
       <updated>1640835454097</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update pom xml file with webapp packaging">
+      <created>1640848052727</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1640848052727</updated>
+    </task>
+    <task id="LOCAL-00016" summary="trigger another build">
+      <created>1640848258119</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1640848258119</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add another line">
+      <created>1644368040705</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1644368040705</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Adding prod env">
+      <created>1644372904088</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1644372904088</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -207,6 +238,9 @@
     <MESSAGE value="add procfile" />
     <MESSAGE value="update procfile" />
     <MESSAGE value="update pom xml file with webapp packaging" />
-    <option name="LAST_COMMIT_MESSAGE" value="update pom xml file with webapp packaging" />
+    <MESSAGE value="trigger another build" />
+    <MESSAGE value="add another line" />
+    <MESSAGE value="Adding prod env" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding prod env" />
   </component>
 </project>

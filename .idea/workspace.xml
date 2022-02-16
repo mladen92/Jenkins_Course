@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-tomcat-sample/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/java-tomcat-sample/Jenkinsfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -262,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644975182300</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="missing steps in new jenkins file">
+      <created>1644975522307</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1644975522307</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -305,6 +312,7 @@
     <MESSAGE value="update pomxml path for inner jenkins file" />
     <MESSAGE value="typo in archive artifacts" />
     <MESSAGE value="adding stage build from app jenkins file and updating index.jsp" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding stage build from app jenkins file and updating index.jsp" />
+    <MESSAGE value="missing steps in new jenkins file" />
+    <option name="LAST_COMMIT_MESSAGE" value="missing steps in new jenkins file" />
   </component>
 </project>

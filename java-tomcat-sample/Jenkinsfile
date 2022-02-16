@@ -4,7 +4,7 @@ pipeline {
             stage('Build Application Stage') {
                   steps {
                         echo 'Tomcat sample first stage'
-                        sh 'mvn clean package'
+                        sh 'mvn -f java-tomcat-sample/pom.xml clean package'
                   }
                   post{
                         success{

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/java-tomcat-sample/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/java-tomcat-sample/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-tomcat-sample/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/java-tomcat-sample/Jenkinsfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -276,7 +276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644975780351</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="CURLY BRACE CHANGE TO FIX PIPELINE">
+      <created>1644977791502</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1644977791502</updated>
+    </task>
+    <task id="LOCAL-00030" summary="triger the build in pipeline to automate builds and deploy">
+      <created>1644977916924</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1644977916924</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -296,7 +310,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test update to trigger build" />
     <MESSAGE value="Jar dependency update (path to main class execution)" />
     <MESSAGE value="making test to fail" />
     <MESSAGE value="fixing the test" />
@@ -321,6 +334,7 @@
     <MESSAGE value="adding stage build from app jenkins file and updating index.jsp" />
     <MESSAGE value="missing steps in new jenkins file" />
     <MESSAGE value="CURLY BRACE CHANGE TO FIX PIPELINE" />
-    <option name="LAST_COMMIT_MESSAGE" value="CURLY BRACE CHANGE TO FIX PIPELINE" />
+    <MESSAGE value="triger the build in pipeline to automate builds and deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="triger the build in pipeline to automate builds and deploy" />
   </component>
 </project>

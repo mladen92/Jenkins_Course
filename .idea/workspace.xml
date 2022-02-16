@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/java-tomcat-sample/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/java-tomcat-sample/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-tomcat-sample/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/java-tomcat-sample/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -269,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644975522307</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="CURLY BRACE CHANGE TO FIX PIPELINE">
+      <created>1644975780351</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1644975780351</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -313,6 +320,7 @@
     <MESSAGE value="typo in archive artifacts" />
     <MESSAGE value="adding stage build from app jenkins file and updating index.jsp" />
     <MESSAGE value="missing steps in new jenkins file" />
-    <option name="LAST_COMMIT_MESSAGE" value="missing steps in new jenkins file" />
+    <MESSAGE value="CURLY BRACE CHANGE TO FIX PIPELINE" />
+    <option name="LAST_COMMIT_MESSAGE" value="CURLY BRACE CHANGE TO FIX PIPELINE" />
   </component>
 </project>

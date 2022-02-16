@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="update pom xml file with webapp packaging">
+    <list default="true" id="cd698011-f600-4cc1-8ffa-718ab2483efd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +31,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-tomcat-sample/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-tomcat-sample" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -42,8 +42,8 @@
       <recent name="greeter" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-tomcat-sample/src/main/webapp" />
       <recent name="$PROJECT_DIR$/java-tomcat-sample" />
+      <recent name="$PROJECT_DIR$/java-tomcat-sample/src/main/webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -206,7 +206,63 @@
       <option name="project" value="LOCAL" />
       <updated>1644372904088</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="adding .ignore file and jenkins dsl groovy file">
+      <created>1644785650000</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1644785650000</updated>
+    </task>
+    <task id="LOCAL-00020" summary="updating master as string in groovy file">
+      <created>1644790461318</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1644790461318</updated>
+    </task>
+    <task id="LOCAL-00021" summary="adding jenkins file">
+      <created>1644971564140</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1644971564140</updated>
+    </task>
+    <task id="LOCAL-00022" summary="rename Jenkins file">
+      <created>1644972343024</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1644972343024</updated>
+    </task>
+    <task id="LOCAL-00023" summary="adding jenkins file to tomcat sample">
+      <created>1644974192559</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1644974192559</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update pomxml path for inner jenkins file">
+      <created>1644974299681</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1644974299681</updated>
+    </task>
+    <task id="LOCAL-00025" summary="typo in archive artifacts">
+      <created>1644974404716</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1644974404716</updated>
+    </task>
+    <task id="LOCAL-00026" summary="adding stage build from app jenkins file and updating index.jsp">
+      <created>1644975182300</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1644975182300</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -241,6 +297,14 @@
     <MESSAGE value="trigger another build" />
     <MESSAGE value="add another line" />
     <MESSAGE value="Adding prod env" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding prod env" />
+    <MESSAGE value="adding .ignore file and jenkins dsl groovy file" />
+    <MESSAGE value="updating master as string in groovy file" />
+    <MESSAGE value="adding jenkins file" />
+    <MESSAGE value="rename Jenkins file" />
+    <MESSAGE value="adding jenkins file to tomcat sample" />
+    <MESSAGE value="update pomxml path for inner jenkins file" />
+    <MESSAGE value="typo in archive artifacts" />
+    <MESSAGE value="adding stage build from app jenkins file and updating index.jsp" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding stage build from app jenkins file and updating index.jsp" />
   </component>
 </project>
